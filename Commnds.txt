@@ -1,0 +1,24 @@
+C:\Users\surya\SURYANARAYANA\Aws\GIT>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   README.md
+        modified:   requirements.txt
+
+
+
+1)git add .
+
+2)git restore --staged .
+
+Now we are going to staging which is commit:
+3) git commit -m "This is my second commit"
+
+inorder to push to github:
+4) git push -u origin main
+5) git push origin main
+
+This git remote is one time required.
+6)git remote add origin https://github.com/SURYANARAYANA2175/Projecttest1.git
