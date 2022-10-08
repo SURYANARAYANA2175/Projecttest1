@@ -22,3 +22,15 @@ inorder to push to github:
 
 This git remote is one time required.
 6)git remote add origin https://github.com/SURYANARAYANA2175/Projecttest1.git
+
+create one more branch
+
+7)git branch developer1
+
+8) git checkout developer1
+
+9) git merge developer1
+
+## delete developer brnach
+10) git branch -d developer1
+
